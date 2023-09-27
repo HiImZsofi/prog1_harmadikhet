@@ -1,0 +1,14 @@
+C:\Egyetem\harmadikhetgyak\harmadikhetgyak\bin\Debug\net6.0\harmadikhetgyak.exe
+C:\Egyetem\harmadikhetgyak\harmadikhetgyak\bin\Debug\net6.0\harmadikhetgyak.deps.json
+C:\Egyetem\harmadikhetgyak\harmadikhetgyak\bin\Debug\net6.0\harmadikhetgyak.runtimeconfig.json
+C:\Egyetem\harmadikhetgyak\harmadikhetgyak\bin\Debug\net6.0\harmadikhetgyak.dll
+C:\Egyetem\harmadikhetgyak\harmadikhetgyak\bin\Debug\net6.0\harmadikhetgyak.pdb
+C:\Egyetem\harmadikhetgyak\harmadikhetgyak\obj\Debug\net6.0\harmadikhetgyak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Egyetem\harmadikhetgyak\harmadikhetgyak\obj\Debug\net6.0\harmadikhetgyak.AssemblyInfoInputs.cache
+C:\Egyetem\harmadikhetgyak\harmadikhetgyak\obj\Debug\net6.0\harmadikhetgyak.AssemblyInfo.cs
+C:\Egyetem\harmadikhetgyak\harmadikhetgyak\obj\Debug\net6.0\harmadikhetgyak.csproj.CoreCompileInputs.cache
+C:\Egyetem\harmadikhetgyak\harmadikhetgyak\obj\Debug\net6.0\harmadikhetgyak.dll
+C:\Egyetem\harmadikhetgyak\harmadikhetgyak\obj\Debug\net6.0\refint\harmadikhetgyak.dll
+C:\Egyetem\harmadikhetgyak\harmadikhetgyak\obj\Debug\net6.0\harmadikhetgyak.pdb
+C:\Egyetem\harmadikhetgyak\harmadikhetgyak\obj\Debug\net6.0\harmadikhetgyak.genruntimeconfig.cache
+C:\Egyetem\harmadikhetgyak\harmadikhetgyak\obj\Debug\net6.0\ref\harmadikhetgyak.dll
